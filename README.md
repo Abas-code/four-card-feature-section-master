@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Abas-code/)
-- Live Site URL: (https://vercel.app/)
+- Solution URL: (https://github.com/Abas-code/four-card-feature-section-master)
+- Live Site URL: (https://four-card-feature-section-master-pearl-iota.vercel.app/)
 
 ## My process
 
